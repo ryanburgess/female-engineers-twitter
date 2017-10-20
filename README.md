@@ -1,6 +1,6 @@
 # Female Engineers to follow on Twitter
 
-On September 1, 2017 I tweeted "Who are strong female engineers everyone should follow on Twitter?" and got an overwhelming amount of amazing responses. A lot of people even asked of a way to have the followers listed out. So I leveraged the Twitter API to pull out the names mentioned in the responses. They are listed here.
+On September 1, 2017 I tweeted "[Who are strong female engineers everyone should follow on Twitter?](https://twitter.com/burgessdryan/status/903639140893319170)" and got an overwhelming amount of amazing responses. A lot of people even asked of a way to have the followers listed out. So I leveraged the Twitter API to pull out the names mentioned in the responses. They are listed here.
 
 Feel free to add other female engineers that aren't mentioned in the original tweet.
 
