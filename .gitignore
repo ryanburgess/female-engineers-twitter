@@ -1,0 +1,10 @@
+.DS_Store
+~*
+*.bak
+*.tmp
+.sass-cache
+*.log
+node_modules/
+names.json
+build.js
+output.md
