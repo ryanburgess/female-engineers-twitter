@@ -8,3 +8,4 @@ node_modules/
 names.json
 build.js
 output.md
+.idea/
