@@ -1065,4 +1065,7 @@ Bethesda MD
 ### Kris Nova
 [@Kris__Nova](https://twitter.com/Kris__Nova)
 
-  
+
+### Maedah Batool
+[@MaedahBatool](https://twitter.com/MaedahBatool)
+WordPress Core Contributing Developer & Engineering Manager
