@@ -239,7 +239,7 @@ Minneapolis, Minnesota
 Salt Lake City
   
 ### Marianna Tessel
-[@mtessel12](https://twitter.com/mtessel12)
+[@mariannatessel](https://twitter.com/mariannatessel)
 
   
 ### amy nguyen
